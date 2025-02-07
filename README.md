@@ -53,5 +53,8 @@ Before you begin, ensure you have the following installed:
   - Set up an app
     - NOTE: We will come back to this configuration once your ngrok server is running
     - You will need to set the URL in the app to be the ".app" url output by ngrok
+  - Click back to your "phone numbers"
+  - Click the desired "phone number"
+  - Update "Configure With" to use the new "TwiMML App" you configured
 - Set up an ngrok account
   - This is free for developers
